@@ -1,3 +1,6 @@
 title: Piyush Patil
 show download: FALSE
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+url: https://patilpiyush.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /profile/      # place folder name if the site is served in a subfolder
+
